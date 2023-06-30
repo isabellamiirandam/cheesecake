@@ -20,4 +20,11 @@ button {
   font-weight: 500;
 
   background-color: #a54328;
+
+  color: white;
+
+  border: 0;
+  padding: 0.8rem 1.2rem;
+  border-radius: 0.6rem;
+  margin-top: 1.8rem;
 }
