@@ -49,6 +49,10 @@ button {
   margin-top: 3.2rem;
 }
 
+button:hover {
+  background-color: #df866e;
+}
+
 h1,
 h2 {
   font-size: clamp(2.8rem, 2vw + 1rem, 4rem);
