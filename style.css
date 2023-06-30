@@ -80,4 +80,11 @@ ul {
     flex-direction: row;
     max-width: 100%;
   }
+
+  /* pegando o primeiro nível de div*/
+
+  main > div {
+    flex: 1;
+    max-width: 50rem;
+  }
 }
