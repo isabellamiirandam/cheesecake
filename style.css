@@ -33,7 +33,7 @@ main {
 }
 
 img {
-  width: 50%;
+  width: 100%;
   margin-block: 3.2rem;
 }
 
@@ -96,6 +96,10 @@ ul {
 
   .ingredients {
     max-width: 52.5rem;
+  }
+
+  img {
+    width: 50%;
   }
 
   h1,
