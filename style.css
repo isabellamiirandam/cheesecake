@@ -28,6 +28,7 @@ main {
 
 img {
   width: 100%;
+  margin-block: 3.2rem;
 }
 
 button {
