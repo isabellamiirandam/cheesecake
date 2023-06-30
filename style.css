@@ -82,10 +82,11 @@ ul {
     gap: 16rem;
   }
 
-  /* pegando o primeiro nível de div*/
+  .recipe {
+    max-width: 43.5rem;
+  }
 
-  main > div {
-    flex: 1;
-    max-width: 50rem;
+  .ingredients {
+    max-width: 52.5rem;
   }
 }
