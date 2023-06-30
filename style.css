@@ -104,3 +104,17 @@ ul {
     line-height: 2.4rem;
   }
 }
+
+img {
+  animation: translucent 1s;
+}
+
+@keyframes translucent {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
