@@ -24,6 +24,10 @@ main {
   padding: 5.6rem 4rem;
 }
 
+img {
+  width: 100%;
+}
+
 button {
   font-family: "Source Serif 4";
   font-weight: 500;
