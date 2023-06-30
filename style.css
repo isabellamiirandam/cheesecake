@@ -78,7 +78,8 @@ ul {
 @media (min-width: 768px) {
   main {
     flex-direction: row;
-    max-width: 100%;
+    max-width: fit-content;
+    gap: 16rem;
   }
 
   /* pegando o primeiro nível de div*/
